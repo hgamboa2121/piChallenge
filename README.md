@@ -9,7 +9,9 @@ When I started to look over the challenge it seemed like it was going to be very
 The bread and butter to my language of choice is Java. I do understand that Best Buy uses many different technologies and since I was able to finish the code challenge quicker than what I anticipated I wrote the same program in other languages. **I understand that this was not part of the requirements but for practice and experience (and bonus points of course) in languages that I don't commonly use I assumed it was a great thing to do.** 
 
 https://github.com/hgamboa2121/piChallenge-Python
+
 https://github.com/hgamboa2121/piChallenge-JavaScript-HTML-CSS
+
 https://github.com/hgamboa2121/piChallenge-Java-SpringFramework
 
 ## Understanding the code
