@@ -12,9 +12,9 @@ The java program is very straight forward. I have a text file that I saved the f
 There were a few things that I learned from this challenge. After making a few versions of this and testing performance I do understand that there are a million different approaches for this challenge. My top two picks were either A: Storing the entire digits of pi in a String and computing the answer(which is the one that I delivered)  or B: Using a data structure such as a Queue to use as a delimiter to the seven-digit requirement. I went with option "A" as it was slightly faster when it came to execution time (but this really varies). 
 
 ## Challenging myself
-The bread and butter to my language of choice is Java. I do understand that Best Buy uses many different technologies and since I was able to finish the code challenge quicker than what I anticipated I wrote the same program in other languages. **I understand that this was not part of the requirements but for practice and experience (and bonus points of course) in languages that I don't commonly use I assumed it was a great thing to do.** 
+The bread and butter to my language of choice is Java. I do understand that Best Buy uses many different technologies and since I was able to finish the code challenge quicker than what I anticipated I attempted the same challenge in diffrent ways/languages. **I understand that this was not part of the requirements but for practice and experience (and bonus points of course) in languages that I don't commonly use I assumed it was a great thing to do.** 
 
-Disclaimer: Some of these programs may have bugs, not completed, no notation...  but if interested you are more than welcome to look :)
+**Disclaimer: Some of these programs may have bugs, not completed, no notation...  but if interested you are more than welcome to look :)**
 
 https://github.com/hgamboa2121/piChallenge-Python (Complete)
 
